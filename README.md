@@ -39,6 +39,11 @@ module.exports = {
   plugins: [],
 }
 
+### ShortCuts
+Rafce - react arrow function component export.
+##
+shortcut to auto write component in jsx,js file
+
 ### Add the Tailwind directives to your CSS
 
 Add the @tailwind directives for each of Tailwind’s layers to your ./src/index.css file.
