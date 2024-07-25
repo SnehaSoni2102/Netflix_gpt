@@ -6,7 +6,7 @@ Sign In/ Sign up form
    ##
 redirect to browser page
 ### Browser( after authentication)
-   #### Header 
+    - Header 
     - Main Movie 
     - Tailer in Backgroud
        - Title in description
