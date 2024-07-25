@@ -39,7 +39,7 @@ module.exports = {
   plugins: [],
 }
 
-### ShortCuts
+## ShortCuts
 Rafce - react arrow function component export.
 ##
 shortcut to auto write component in jsx,js file
