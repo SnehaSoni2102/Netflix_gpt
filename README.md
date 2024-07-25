@@ -20,12 +20,15 @@ redirect to browser page
 
 ## Install Tailwind CSS
 npm install -D tailwindcss
+##
 npx tailwindcss init
+##
 this line will generate tailwind.config.js file.
 
 ### Modify tailwind.config.js file
 
 /** @type {import('tailwindcss').Config} */
+##
 module.exports = {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
@@ -39,9 +42,11 @@ module.exports = {
 ### Add the Tailwind directives to your CSS
 
 Add the @tailwind directives for each of Tailwind’s layers to your ./src/index.css file.
-
+##
 @tailwind base;
+##
 @tailwind components;
+##
 @tailwind utilities;
 
 ## Getting Started with Create React App
