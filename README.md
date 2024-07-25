@@ -1,17 +1,18 @@
 # Netflix GPT
 
-# Features
-- Login/Sign 
-   - Sign In/ Sign up form
-   -redirect to browser page
--Browser( after authentication)
-   -Header 
-   -Main Movie
-       -Tailer in Backgroud
+## Features
+### Login/Sign 
+Sign In/ Sign up form
+   ##
+redirect to browser page
+### Browser( after authentication)
+   #### Header 
+Main Movie 
+Tailer in Backgroud
        -Title in description
        -MovieSuggestions 
            - MovieLists * N
-- NetflixGPT
+### NetflixGPT
     - Search Bar
     - Movie Suggestion    
 
