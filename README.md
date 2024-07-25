@@ -7,11 +7,11 @@ Sign In/ Sign up form
 redirect to browser page
 ### Browser( after authentication)
    #### Header 
-Main Movie 
-Tailer in Backgroud
-       -Title in description
-       -MovieSuggestions 
-           - MovieLists * N
+    - Main Movie 
+    - Tailer in Backgroud
+       - Title in description
+       - MovieSuggestions 
+         - MovieLists * N
 ### NetflixGPT
     - Search Bar
     - Movie Suggestion    
