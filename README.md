@@ -1,4 +1,23 @@
-# Install Tailwind CSS
+# Netflix GPT
+
+# Features
+- Login/Sign 
+   - Sign In/ Sign up form
+   -redirect to browser page
+-Browser( after authentication)
+   -Header 
+   -Main Movie
+       -Tailer in Backgroud
+       -Title in description
+       -MovieSuggestions 
+           - MovieLists * N
+- NetflixGPT
+    - Search Bar
+    - Movie Suggestion    
+
+
+
+## Install Tailwind CSS
 npm install -D tailwindcss
 npx tailwindcss init
 this line will generate tailwind.config.js file.
@@ -24,11 +43,11 @@ Add the @tailwind directives for each of Tailwind’s layers to your ./src/index
 @tailwind components;
 @tailwind utilities;
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
