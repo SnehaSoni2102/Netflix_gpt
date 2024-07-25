@@ -3,7 +3,7 @@ npm install -D tailwindcss
 npx tailwindcss init
 this line will generate tailwind.config.js file.
 
-# Modify tailwind.config.js file
+### Modify tailwind.config.js file
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
@@ -16,7 +16,7 @@ module.exports = {
   plugins: [],
 }
 
-# Add the Tailwind directives to your CSS
+### Add the Tailwind directives to your CSS
 
 Add the @tailwind directives for each of Tailwind’s layers to your ./src/index.css file.
 
